@@ -1,0 +1,14 @@
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\bin\Debug\net7.0\testesUnitarios.desafio.console.exe
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\bin\Debug\net7.0\testesUnitarios.desafio.console.deps.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\bin\Debug\net7.0\testesUnitarios.desafio.console.runtimeconfig.json
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\bin\Debug\net7.0\testesUnitarios.desafio.console.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\bin\Debug\net7.0\testesUnitarios.desafio.console.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.AssemblyInfoInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.AssemblyInfo.cs
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.csproj.CoreCompileInputs.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\refint\testesUnitarios.desafio.console.dll
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.pdb
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\testesUnitarios.desafio.console.genruntimeconfig.cache
+C:\Users\wbnog\Cursos DIO\Bootcamp WEX Desenv NET e QA\desafio_testes_unitarios\testesUnitarios.desafio.console\obj\Debug\net7.0\ref\testesUnitarios.desafio.console.dll

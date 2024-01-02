@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = testesUnitarios.desafio.tests
+build_property.ProjectDir = h:\Dio\C#\04 - Orientação a objetos C\06 - Implementando Validações de Testes Unitários com C\outros\03\desafio_testes_unitarios-main\testesUnitarios.desafio.tests\
